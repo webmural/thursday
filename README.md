@@ -1,4 +1,4 @@
-# [index](index.html)
+# [`thursday`](index.html)
 
 * [HTML](https://webmural.com/html)
 * [CSS](https://webmural.com/css)
